@@ -1,0 +1,24 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+# editor files
+/.idea
+
+# dependencies
+/ui/node_modules
+
+# testing
+/ui/coverage
+
+# production
+/ui/build
+
+# misc
+/ui/.DS_Store
+/ui/.env
+/ui/npm-debug.log*
+/ui/yarn-debug.log*
+/ui/yarn-error.log*
+
+# python
+/api/.venv
+__pycache__/
+*.pyc

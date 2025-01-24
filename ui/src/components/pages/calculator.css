@@ -1,0 +1,27 @@
+.main{
+    height: 100vh;
+}
+
+.inputBar{
+    text-align: center;
+    font-weight: bold;
+    max-width: 8rem;
+    margin-bottom: 1rem;
+}
+
+.inputLabel{
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: .5rem;
+}
+
+.answer{
+    margin-top: .5rem;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.calculateButton{
+    width: 8rem;
+    font-weight: bold;
+}
