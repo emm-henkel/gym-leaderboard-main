@@ -1,6 +1,14 @@
 
 # Gym Leaderboard
 
+This is a re-upload of a repository that I was a large contributor to. The initial repository is now private so I am re-uploading for the sake of using it as an item on my portfolio.
+
+If you've managed to read this, I assume that means that my GitHub activity is applicable to you, feel free to reach out to me so I can share in more detail about my contributions!
+
+
+
+
+
 <!-- GETTING STARTED -->
 ## Getting Started
 ### Install 
